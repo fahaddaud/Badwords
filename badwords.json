@@ -1,1 +1,5 @@
-
+{
+  "badWords":
+  {"bsdk"},
+  {"kutta"}
+}
