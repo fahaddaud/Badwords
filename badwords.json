@@ -1,6 +1,13 @@
 {
-  "badWords": [
-    "bsdk",
-    "kutta"
+  "users": [
+    {
+      "name": "Alice",
+      "messages": ["Message 1", "Message 2"]
+    },
+    {
+      "name": "Bob",
+      "messages": ["Hello there", "How are you?"]
+    }
+    // Add more users if needed
   ]
 }
