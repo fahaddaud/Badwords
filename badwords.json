@@ -8,6 +8,5 @@
       "name": "Bob",
       "messages": ["Hello there", "How are you?"]
     }
-    // Add more users if needed
   ]
 }
